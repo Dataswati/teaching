@@ -1,1 +1,1 @@
-# teaching
+# Public teaching resources
